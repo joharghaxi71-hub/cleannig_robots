@@ -1,0 +1,1 @@
+{"VacuumBot": {"Living Room": true, "Kitchen": true, "Bedroom": true, "Bathroom": true, "Hallway": false}, "MopBot": {"Living Room": false, "Kitchen": true, "Bedroom": true, "Bathroom": true}, "TrashBot": {"Living Room": false, "Kitchen": true, "Bedroom": true, "Bathroom": false}}
